@@ -1,0 +1,16 @@
+body {
+    font-family: 'Srisakdi', cursive;
+    font-size: 24px;
+    line-height: 34px;
+    color: #777777;
+    background: coral;
+  }
+
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    
+}  
